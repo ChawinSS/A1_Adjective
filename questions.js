@@ -31,21 +31,11 @@ const quizDataFromFile = [
   },
   {
     "question": "groß",
-    "correct": "tall",
+    "correct": "tall/large",
     "choices": [
       "wrong / incorrect",
       "large",
-      "tall",
-      "new"
-    ]
-  },
-  {
-    "question": "groß",
-    "correct": "large",
-    "choices": [
-      "good",
-      "large",
-      "angry",
+      "tall/large",
       "new"
     ]
   },
@@ -64,39 +54,9 @@ const quizDataFromFile = [
     "correct": "good",
     "choices": [
       "good",
-      "happily",
-      "green",
-      "angry"
-    ]
-  },
-  {
-    "question": "gut",
-    "correct": "good",
-    "choices": [
-      "good",
       "green",
       "tall",
       "small"
-    ]
-  },
-  {
-    "question": "gut",
-    "correct": "…",
-    "choices": [
-      "black",
-      "wrong / incorrect",
-      "…",
-      "light"
-    ]
-  },
-  {
-    "question": "gut",
-    "correct": "…",
-    "choices": [
-      "good",
-      "possible",
-      "…",
-      "light"
     ]
   },
   {
@@ -111,11 +71,11 @@ const quizDataFromFile = [
   },
   {
     "question": "herzlich",
-    "correct": "…",
+    "correct": "warmly",
     "choices": [
       "happily",
       "large",
-      "…",
+      "warmly",
       "blue"
     ]
   },
@@ -160,43 +120,13 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "neu",
-    "correct": "new",
-    "choices": [
-      "wrong / incorrect",
-      "blue",
-      "large",
-      "new"
-    ]
-  },
-  {
     "question": "pünktlich",
-    "correct": "sharp",
+    "correct": "sharp/punctual",
     "choices": [
       "good",
       "new",
       "happily",
-      "sharp"
-    ]
-  },
-  {
-    "question": "pünktlich",
-    "correct": "punctual",
-    "choices": [
-      "good",
-      "punctual",
-      "large",
-      "red"
-    ]
-  },
-  {
-    "question": "richtig",
-    "correct": "correct",
-    "choices": [
-      "punctual",
-      "sharp",
-      "white",
-      "correct"
+      "sharp/punctual"
     ]
   },
   {
